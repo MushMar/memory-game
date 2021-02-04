@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production"  ? "/memory_game/" : "/",
+  publicPath: process.env.NODE_ENV === "production"  ? "/memory-game/" : "/",
   css: {
     loaderOptions: {
       sass: {
